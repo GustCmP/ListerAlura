@@ -79,5 +79,3 @@ if (anoBuscado >= autor.getDataNascimento() && anoBuscado <= autor.getDataFaleci
 }
 ```
 ---
-
-Desenvolvido por **Felipe Augusto de Lima Silveira**.
